@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CO2Red", "CO2Red\CO2Red.csproj", "{82B3D8E2-0953-495A-81BB-A1A42C9CC38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CO2RedBackend", "CO2RedBackend\CO2RedBackend.csproj", "{B97841AF-D01A-47D1-A074-239D4681E4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B3D8E2-0953-495A-81BB-A1A42C9CC38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B3D8E2-0953-495A-81BB-A1A42C9CC38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B3D8E2-0953-495A-81BB-A1A42C9CC38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B3D8E2-0953-495A-81BB-A1A42C9CC38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97841AF-D01A-47D1-A074-239D4681E4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97841AF-D01A-47D1-A074-239D4681E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97841AF-D01A-47D1-A074-239D4681E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97841AF-D01A-47D1-A074-239D4681E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93EE73B2-3716-48A5-B646-D0051A52359E}
+	EndGlobalSection
+EndGlobal
